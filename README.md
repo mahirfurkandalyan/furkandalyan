@@ -1,86 +1,83 @@
-# 👋 Hello, I'm Furkan Dalyan
+# Mahir Furkan Dalyan
 
-Welcome to my GitHub profile! I'm currently studying **Computer Engineering** at **Acıbadem University** in Istanbul. As someone who’s deeply curious about how things work under the hood, I’m always trying to build, break, fix, and rebuild things — mostly in code, sometimes in real life too.
+Full-stack developer building scalable and production-ready web applications.
 
-I enjoy blending logic with creativity. Whether I’m developing web applications or scripting tools in Python, my goal is to create things that are not only functional, but also clean, efficient, and easy to understand (by both humans and machines).
-
-Coding for me is not just a career path, but also a way to learn, experiment, and express ideas. And sometimes — just sometimes — it’s also a source of mild chaos, especially when something works for no apparent reason.
-
----
-
-## 🔭 Currently Working On
-
-Right now, I’m focusing on several areas where I want to grow stronger both in theory and practice:
-
-- **Python development**, especially small tools, data-driven utilities, and automation scripts.
-- Building structured web applications using **Django**, with attention to clean backend logic and intuitive frontend design.
-- Exploring the world of **Unity**, where I’m trying to turn abstract game ideas into interactive experiences — often learning through trial and (a lot of) error.
-
-I'm also paying more attention to the **importance of writing maintainable and readable code**, rather than just code that "works".
+🌐 Website: https://mahirfurkandalyan.com
+📍 Istanbul, Turkey
 
 ---
 
-## 🌱 What I'm Learning
+## About
 
-Technology never stops evolving, and neither do I. I'm currently diving into:
+I specialize in developing modern web applications with a strong focus on backend architecture, performance, and maintainability.
 
-- **Advanced Django features**, such as custom middleware, class-based views, and authentication systems.
-- **Frontend technologies** like JavaScript and responsive design to better complement my backend work.
-- **Game mechanics and physics** in Unity, especially how to create engaging user experiences.
-- **Version control, clean architecture**, and better project organization to make my code more scalable.
+Rather than limiting my work to a few highlighted repositories, I actively build and iterate on multiple real-world projects.
+A broader and more up-to-date portfolio can be found on my website.
 
-I believe learning is most effective when it's hands-on, so I'm always building side projects to apply what I learn.
+My work primarily focuses on:
 
----
-
-## 💬 Topics I Can Talk About
-
-Feel free to reach out or ask if you want to chat about:
-
-- Python scripting, logic, best practices, and general usage
-- Setting up Django projects, models, views, and template structures
-- HTML/CSS layouting and responsive design strategies
-- JavaScript behavior, basic DOM manipulation, and interactions
-- How Unity scenes work, simple animations, object collisions and more
-
-I don’t claim to know everything, but I enjoy solving problems and love collaborating with others.
+* Business-oriented web applications
+* Industry-specific digital solutions
+* Scalable backend systems and APIs
 
 ---
 
-## 📫 How to Reach Me
+## Tech Stack
 
-You can reach me via email:
+**Backend**
 
-**📩 dmf.furkan@gmail.com**
+* Python (Django)
+* RESTful API design
 
-Whether you want to collaborate on a project, ask for help, or just say hi — feel free to drop a message. I may take a while if I’m deep into debugging something... but I’ll get back to you!
+**Frontend**
 
----
+* Next.js
+* Responsive and modern UI development
 
-## ⚡ A Little Fun on the Side
+**Database & Services**
 
-Here are some things about me you might not find in a typical profile:
+* PostgreSQL
+* Supabase (Authentication, Storage)
 
-- I sometimes spend more time styling a button than writing the entire backend logic.
-- I'm fluent in English, Turkish, and "Stack Overflow error language".
-- I once fixed a bug by changing the file name... and it worked. I still don’t know why. It lives rent-free in my brain.
+**DevOps & Tools**
 
-Coding isn’t always smooth — but every obstacle is a chance to learn, adapt, and come back stronger.
-
----
-
-## 📈 GitHub Activity
-
-> Contributions don’t always show the struggle behind the scenes — but every dot represents persistence, curiosity, and a few cups of coffee.
-
-![Profile Views](https://komarev.com/ghpvc/?username=furkandalyan&color=blue)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/furkandalyan/furkandalyan/output/dist/github-contribution-grid-snake.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/furkandalyan/furkandalyan/output/dist/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/furkandalyan/furkandalyan/output/dist/github-contribution-grid-snake.svg" />
-</picture>
+* Docker
+* Git & GitHub
+* Deployment platforms (Render, Vercel, Netlify)
 
 ---
 
-Thanks for stopping by — and happy coding! 🚀
+## Selected Work
+
+Some of the projects I have worked on include:
+
+* Real estate management platforms
+* QR-based menu and ordering systems for cafes
+* Process tracking and workflow applications
+* Custom web solutions for different business needs
+
+For a complete and regularly updated list of projects:
+👉 https://mahirfurkandalyan.com
+
+---
+
+## Development Approach
+
+* Building systems with real-world usage in mind
+* Writing clean, maintainable, and scalable code
+* Prioritizing performance and usability
+* Continuously improving and refining existing projects
+
+---
+
+## Contact
+
+GitHub: https://github.com/mahirfurkandalyan
+Website: https://mahirfurkandalyan.com
+
+---
+
+## Notes
+
+This GitHub profile represents a portion of my work.
+Ongoing projects, demos, and detailed case studies are available on my website.
